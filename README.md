@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://taimoralam.vercel.app">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/taimoralam">LinkedIn</a> •
-  <a href="mailto:alamtaimor@gmail.com">Email</a>
+  <a href="mailto:alamtaimor@gmail.com">Email</a> •
+  <a href="https://devpost.com/alamtaimor?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">DevPost</a>
 </p>
 
 ---
